@@ -1,1 +1,1 @@
-# Read Me
+# retropack with all cores and emulation apps 
